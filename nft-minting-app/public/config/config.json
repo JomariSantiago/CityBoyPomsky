@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbCd814C25f631241eA5915f163b039847A0B0839",
+  "SCAN_LINK": "https://goerli.etherscan.io/token/0xbCd814C25f631241eA5915f163b039847A0B0839",
+  "NETWORK": {
+    "NAME": "Goerli",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "City Boy Pomsky ",
+  "SYMBOL": "CBP",
+  "MAX_SUPPLY": 171,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cityboypomskynft",
+  "SHOW_BACKGROUND": true
+}
